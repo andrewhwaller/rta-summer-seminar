@@ -1,7 +1,7 @@
 ---
 theme: default
 favicon: /favicon.ico
-background: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg
+background: /bible.jpg
 class: text-center
 lineNumbers: false
 info: |
@@ -26,9 +26,9 @@ fonts:
   provider: google
 ---
 
-# Title
+# Summer Seminar: Crucial Questions
 
-## Subtitle
+## Locating the Canon within Christian Theology
 
 <!-- This is only a sample of different slide layouts and does not contain the full content for this lecture. -->
 
