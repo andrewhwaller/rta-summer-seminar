@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Title - Subtitle
+title: Crucial Questions - Locating the Canon within Christian Theology
 mdc: true
 download: true
 export:
@@ -30,21 +30,104 @@ fonts:
 
 ## Locating the Canon within Christian Theology
 
-<!-- This is only a sample of different slide layouts and does not contain the full content for this lecture. -->
+<!--
+Image source: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gutenberg_Bible_at_Yale.jpg/1280px-Gutenberg_Bible_at_Yale.jpg
+-->
 
 ---
 layout: statement
 ---
 
-# Jesus’s mission of restoration is inextricably bound up with Israel’s destiny.
+# What is the _canon_?
 
 ---
 layout: statement
 ---
 
-<h1 v-mark="{ color: '#f72f47', type: 'strike-through', strokeWidth: 5 }">What is Israel’s messiah meant to do?</h1>
-<h1 v-click>How will God restore his people?</h1>
+# The _canon_ is the collection of texts that the church receives as the communication of God to his people and the church's rule for faith and practice.
 
+---
+layout: statement
+---
+
+# How do we get from _scripture_ to _canon_?
+
+---
+layout: statement
+---
+
+# 3 Corinthians: canonical or not?
+
+<!--
+* So, hypothetically, what if we're able to demonstrate that 3 Corinthians was actually written by Paul?
+* Does that text then gain canonical status?
+-->
+---
+layout: statement
+---
+
+# 1–2 Timothy weren't written by Paul: canonical or not?
+
+<!--
+* Again, what if the scholars who say that Paul didn't write 1–2 Timothy are right?
+* What if we're able to conclusively demonstrate that these aren't authentic Pauline writings?
+* Do these texts then lose canonical status?
+-->
+---
+layout: gallery-frame
+image: /davinci.jpg
+backgroundSize: contain
+work: The Da Vinci Code
+metadata: "Dan Brown, 2003"
+---
+
+## Extrinsic model (cynical version)
+#### The boundaries of the canon are determined by those in power, whether ecclesial or political.
+
+<!--
+* Canonicity is largely a function of power and hierarchy rather than a product of the text.
+* This approach generally focuses on a description of the human political processes that produce the result that is the canon.
+* Intellectual history/political history, rather than a theological treatment.
+-->
+---
+layout: gallery-frame
+image: /nicaea.jpg
+backgroundSize: cover
+metadata: "Icon depicting the Council of Nicaea"
+---
+
+## Extrinsic model (ecclesial version)
+#### The boundaries of the canon are determined through the deliberation of the apostolic church.
+
+<!--
+* The church is able to authoritatively determine the shape of the canon.
+* This approach will generally emphasize ecclesiology and the church's authority, particularly along apostolic lines.
+* Sometimes this model will be caricatured as a "Catholic" position, where the tradition of the church dominates the authority of the canon itself.
+    * However, many Catholics would readily acknowledge that church councils recognize but do not create the canon.
+-->
+
+---
+layout: gallery-frame
+image: /canon_table.jpg
+backgroundSize: contain
+work: Canon quartus in quo III
+metadata: "from the Cutbercht Gospels, 8th c., Salzburg"
+---
+
+## Intrinsic models
+#### Can we determine canonicity via the texts themselves?
+* Criteria of canonicity? Apostolic origin, ecclesial use, historical authenticity?
+* Self-authentication? Providence, attributes of canonicity, testimony of the Spirit?
+
+<!--
+* Historical reliability/accuracy is not the same thing as divine authority!
+    * If it could be demonstrated that the Islamic account of the origins of the Quran was completely historically accurate, would that then require me to grant the Quran divine authority? We'd probably say no.
+* A self-authentication model is a step in the right direction.
+    * However, this model still requires a significant emphasis on history.
+    * This isn't bad, but the move to treat texts as historical or apostolic artefacts is often made too quickly.
+    * In my mind, this model is still trying to provide theological and historical answers the questions that historical critics are asking, rather than beginning with the work of God in Christ.
+    * This approach can end up being a theologized extrinsic model, with the Holy Spirit being the asterisk that legitimizes the historical processes that produce the canon.
+-->
 ---
 layout: quote
 ---
