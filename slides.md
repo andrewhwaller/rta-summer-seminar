@@ -92,7 +92,7 @@ metadata: "Dan Brown, 2003"
 ---
 layout: gallery-frame
 image: /nicaea.jpg
-backgroundSize: cover
+backgroundSize: contain
 metadata: "Icon depicting the Council of Nicaea"
 ---
 
@@ -122,59 +122,139 @@ metadata: "from the Cutbercht Gospels, 8th c., Salzburg"
 <!--
 * Historical reliability/accuracy is not the same thing as divine authority!
     * If it could be demonstrated that the Islamic account of the origins of the Quran was completely historically accurate, would that then require me to grant the Quran divine authority? We'd probably say no.
+    * Christians frequently overestimate the historical claims that can be made about the Bible.
+        * There are so many aspects of the historical content of the Bible that are impossible to verify archaeologically.
+        * I can't, for example, prove to you that the Exodus happened; so, the idea that the Exodus is a historical event is a poor foundation for canonicity.
 * A self-authentication model is a step in the right direction.
     * However, this model still requires a significant emphasis on history.
     * This isn't bad, but the move to treat texts as historical or apostolic artefacts is often made too quickly.
     * In my mind, this model is still trying to provide theological and historical answers the questions that historical critics are asking, rather than beginning with the work of God in Christ.
     * This approach can end up being a theologized extrinsic model, with the Holy Spirit being the asterisk that legitimizes the historical processes that produce the canon.
+* These sorts of intrinsic models are often what is initially presented to lay people as a way to understand the canon.
+    * I suggest that we need a significantly more theological foundation as we try to understand the canon.
 -->
 ---
-layout: quote
+layout: statement
 ---
 
-# 2 Sam 7:5–16
-“Go and tell my servant David, ‘Thus says the Lord: … When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom….
-And your house and your kingdom shall be made sure forever before me.
-Your throne shall be established forever.’”
+# How do church, scripture, and Spirit relate to one another in the greater context of the work of God in Christ?
 
-# Psalm 89:29–35
-“I will establish [David’s] offspring forever and his throne as the days of the heavens.
-If his children forsake my law… then I will punish their transgression with the rod and their iniquity with stripes, but I will not remove from him my steadfast love or be false to my faithfulness.
-I will not violate my covenant or alter the word that went forth from my lips.
-Once for all I have sworn by my holiness; I will not lie to David.”
+<!-- This is, I think, at the heart of the question of canon. -->
 
 ---
 layout: quote
 ---
 
-Jer 31:31–34: “The days are coming,” declares the Lord, “when I will make a new covenant with the people of Israel and with the people of Judah.
-It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt... This is the covenant I will make with the people of Israel after that time,” declares the Lord.
-“***I will put my law in their minds and write it on their hearts.***
-I will be their God, and they will be my people.
-***No longer will they teach their neighbor***, or say to one another, ‘Know the Lord,’ because they will all know me, from the least of them to the greatest,” declares the Lord.
-“For I will forgive their wickedness and will remember their sins no more.”
+John Webster: “The definitive act of the church is faithful hearing of the gospel of salvation announced by the risen Christ in the Spirit’s power through the service of Holy Scripture. As... the creature of the divine Word, _the church is the hearing church_.”
 
-Jer 33:14–16: “‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah. In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land. In those days Judah will be saved and Jerusalem will live in safety. This is the name by which it will be called: The Lord Our Righteous Savior.’”
+Exodus 20:1--2: “Then God spoke all these words, ‘I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery; you shall have no other gods before me.’”
+
+<!-- 
+* One of the most basic identities of the people of God is their status as the community that is the object of God's rescue and the recipient of his word.
+* Before we even get to questions of history, apostolic authority, ecclesial authority, etc., we need to understand that the church is constituted by God's work on our behalf and his divine communication to us.
+* The canon is founded upon our _hearing_ and the identity of the one who _speaks_.
+* We are giving primacy to the action of God, who defines the church from outside of it. The church does not claim authority for itself and then proceed to determine how it should understand divine communication.
+    *Instead, the church is constantly _hearing_ and exposing itself to divine interruption and reformation.
+    * This is above all a posture of the church.
+-->
+
+---
+layout: quote
+---
+
+John Webster: “The church’s history, of which Holy Scripture is part, is apostolic history.”
+
+“Scripture’s authority _within_ the church is a function of Scripture’s authority _over_ the church.”
+
+<!--
+* Webster: "But what differentiates the life of the church from all other human passage is that it is that history whose impulse lies in the mandate of the risen Christ who commissions and sends."
+* Apostolicity is more than just the specific persons who are named as apostles and more than just the successors that they appointed.
+* Apostolicity primarily speaks to the _one who sends_ the church into the world.
+* The risen Christ commands a Spirit-empowered church to be obedient to the mandate of Pentecost. In this way, the "one holy catholic and apostolic church" is less about ecclesiology than it is about Christology and pneumatology.
+* Webster: "And Holy Scripture, sanctified and inspired to perform its office, testifies to that Word in the history of the church, so that the church’s history becomes apostolic in fresh acts of faith and hearing."
+-->
+
+---
+layout: quote
+---
+
+John Webster: “An account of the canon and canonisation is therefore an account of the extension of Christ’s active, communicative presence in the Spirit’s power through the commissioned apostolic testimony.”
+
+John 1:1, 6--7, 14: “In the beginning was the Word, and the Word was with God, and the Word was God. ... There was a man sent from God, whose name was John. He came as a witness to testify to the light, so that all might believe through him. ... And the Word became flesh and lived among us, and we have seen his glory, the glory as of a father’s only son, full of grace and truth.”
+
+<!-- 
+* Here in John we see the self-revelation and self-utterance of Christ followed by the commissioned testimony of John, which is in turn followed by God in Christ dwelling with his people and inciting the response of belief.
+* The speech of the hearing church is governed by the prior speech of Christ.
+* Before the church can speak, God must speak. Before the church can be sent, the church must hear the sending command. All of this is predicated upon the continuous communication of God to his people through the utterance of Christ and the activity of the Spirit.
+-->
 
 ---
 layout: statement
 ---
 
-# Ezekiel 37
+<h1 v-mark="{ color: '#f72f47', type: 'strike-through', strokeWidth: 5 }">How do we get from <i>scripture</i> to <i>canon</i>?</h1>
+<br/>
+<h1 v-click>How should we <i>think theologically</i> about the church’s canonical decisions?</h1>
 
 ---
-layout: gallery-frame
-image: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg
-backgroundSize: contain
-work: The Vision of The Valley of The Dry Bones
-metadata: "Gustave Doré, 1866"
+layout: quote
 ---
+# Four considerations:
+
+First, the church's canonical decisions are acts of _confession_.
+
+Second, these decisions are acts of _submission_.
+
+Third, canonization refers _backward_ to previous apostolic testimony.
+
+Fourth, canonization is a commitment to the canon as the standard for all the church's activities (worship, proclamation, governance).
+
+
+
+<!--
+* In other words, we acknowledge what scripture is, but we do not _make_ scripture scripture.
+* In making canonical decisions, the church is operating under the authority of the norm that has been given to it, rather than exercising its own autonomous authority.
+    * This is a key confusion around _sola scriptura_. Aren't we rejecting the authority of the church and placing individual autonomy over the Bible? The opposite is true.
+    * Webster: "This is because the authority of the church is nothing other than its acknowledgement of the norm under which it stands."
+    * Canonization is deference to the norm that already governs the church.
+* The church points outside itself to the work of God in Christ, Christ's own commissioning of the apostles, and the prior speech of God in history.
+    * Canonization is retrospective.
+* "Canon" refers not only to how discrete texts are measured and grouped but also to how the church measures itself. The canon is not a product of the church but rather the norm of the church itself.
+-->
 
 ---
-layout: statement
+layout: quote
 ---
 
-# Ezekiel 37: Israel is in need of *resurrection*.
+John Webster: “[T]he church’s act of canonisation is a set of human activities, attitudes and relations which refer beyond themselves to prevenient divine acts of speaking and sanctifying. Like any other element in the church – oversight, service, proclamation, prayer, sacraments, fellowship, witness – the canon is a matter of grace, of a divine promise attached to a creaturely reality.”
+
+---
+layout: quote
+---
+
+# Sufficiency: sufficient for what?
+
+Do you acknowledge yourself to be a sinner in the sight of God, justly deserving His displeasure, and without hope save in His sovereign mercy?
+
+Do you believe in the Lord Jesus Christ as the Son of God, and Savior of sinners, and do you receive and rest upon him alone for salvation as He is offered in the Gospel? 
+
+Do you now resolve and promise, in humble reliance upon the grace of the Holy Spirit, that you will endeavor to live as becomes the followers of Christ?
+
+Do you promise to support the church in its worship and work to the best of your ability?
+
+Do you submit yourselves to the government and discipline of the church, and promise to study its purity and peace?
+
+---
+layout: quote
+---
+
+Belgic Confession, article 5: “We receive all these books and these only as holy and canonical, for the _regulating, founding, and establishing_ of our faith.
+
+And we believe without a doubt all things contained in them—
+
+not so much _because the church receives and approves them_ as such but _above all because the Holy Spirit testifies_ in our hearts that they are from God, and also because they prove themselves to be from God.
+
+For even the blind themselves are able to see that the things predicted in them do happen.”
 
 ---
 layout: qr-code
