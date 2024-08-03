@@ -85,7 +85,7 @@ metadata: "Dan Brown, 2003"
 #### The boundaries of the canon are determined by those in power, whether ecclesial or political.
 
 <!--
-* Canonicity is largely a function of power and hierarchy rather than a product of the text.
+* For extrinsic models, canonicity is largely a function of power and hierarchy rather than a product of the text.
 * This approach generally focuses on a description of the human political processes that produce the result that is the canon.
 * Intellectual history/political history, rather than a theological treatment.
 -->
@@ -100,7 +100,7 @@ metadata: "Icon depicting the Council of Nicaea"
 #### The boundaries of the canon are determined through the deliberation of the apostolic church.
 
 <!--
-* The church is able to authoritatively determine the shape of the canon.
+* In a more ecclesially-oriented extrinc model, the church is able to authoritatively determine the shape of the canon.
 * This approach will generally emphasize ecclesiology and the church's authority, particularly along apostolic lines.
 * Sometimes this model will be caricatured as a "Catholic" position, where the tradition of the church dominates the authority of the canon itself.
     * However, many Catholics would readily acknowledge that church councils recognize but do not create the canon.
@@ -125,6 +125,7 @@ metadata: "from the Cutbercht Gospels, 8th c., Salzburg"
     * Christians frequently overestimate the historical claims that can be made about the Bible.
         * There are so many aspects of the historical content of the Bible that are impossible to verify archaeologically.
         * I can't, for example, prove to you that the Exodus happened; so, the idea that the Exodus is a historical event is a poor foundation for canonicity.
+            * This doesn't mean that the Bible is utterly ahistorical, but we should be realistic about the evidence we have and the claims we can reasonable make based on that evidence.
 * A self-authentication model is a step in the right direction.
     * However, this model still requires a significant emphasis on history.
     * This isn't bad, but the move to treat texts as historical or apostolic artefacts is often made too quickly.
