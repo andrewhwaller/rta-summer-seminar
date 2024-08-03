@@ -233,22 +233,6 @@ John Webster: “[T]he church’s act of canonisation is a set of human activiti
 layout: quote
 ---
 
-# Sufficiency: sufficient for what?
-
-Do you acknowledge yourself to be a sinner in the sight of God, justly deserving His displeasure, and without hope save in His sovereign mercy?
-
-Do you believe in the Lord Jesus Christ as the Son of God, and Savior of sinners, and do you receive and rest upon him alone for salvation as He is offered in the Gospel? 
-
-Do you now resolve and promise, in humble reliance upon the grace of the Holy Spirit, that you will endeavor to live as becomes the followers of Christ?
-
-Do you promise to support the church in its worship and work to the best of your ability?
-
-Do you submit yourselves to the government and discipline of the church, and promise to study its purity and peace?
-
----
-layout: quote
----
-
 Belgic Confession, article 5: “We receive all these books and these only as holy and canonical, for the _regulating, founding, and establishing_ of our faith.
 
 And we believe without a doubt all things contained in them—
